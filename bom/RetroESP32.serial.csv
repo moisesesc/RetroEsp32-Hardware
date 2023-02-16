@@ -1,29 +1,36 @@
-Qty,Designator,MPN,Purchase Link
-1,J1,SJ1-3525NG-GR,https://www.digikey.com/en/products/detail/cui-devices/SJ1-3525NG-GR/2295990?s=N4IgTCBcDaIMoCkCMBaAzAVjBgcgcRTwCUQBdAXyA
-1,C13,CL10B104KB8NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNC/3886658?s=N4IgTCBcDaIMIBkCMAGAQqgLAaTQDgDki4QBdAXyA
-4,"C1, C2, C4, C6",CL10A106MP8NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MP8NNNC/3887529?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQAoA4A5YuEAXQF8g
-4,"C3, C8, C9, C14",CL10A105KP8NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KP8NNNC/3886840?s=N4IgTCBcDaIMIBkCMAGAgqgrAaQAoA4A5YuEAXQF8g
-1,C7,CL10C221JB8NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10C221JB8NNNC/3886706?s=N4IgTCBcDaIMIBkCMAGOYxIFICEAcAckXCALoC%2BQA
-1,J5,5031821852,https://www.digikey.com/en/products/detail/molex/5031821852/4693482?s=N4IgTCBcDaIKwAYDMBGAHGdcIF0C%2BQA
-1,J6,USB4110-GF-A,https://www.digikey.com/en/products/detail/gct/USB4110-GF-A/10384547?s=N4IgTCBcDaIKoGUBCAWAjGgDAWgOIDFsBBEAXQF8g
-1,J3,S2B-PH-SM4-TB(LF)(SN),https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/926655?s=N4IgTCBcDaIMpgEIFoAKAJZcCyAWZAKogBQAyAYgJTFwBylIAugL5A
-1,U4,MCP73832T-2ACI/OT,https://www.digikey.com/en/products/detail/microchip-technology/MCP73832T-2ACI-OT/1223142?s=N4IgTCBcDaILIGEAKB2AzADjWAKgWjAEEEBJAegHkcQBdAXyA
-2,"S1, S2",KMR221GLFS,https://www.digikey.com/en/products/detail/c-k/KMR221GLFS/550472?s=N4IgTCBcDaINIFkBKYwEYDiAZAYgZRAF0BfIA
-1,Q3,DMG3415U-7,https://www.digikey.com/en/products/detail/diodes-incorporated/DMG3415U-7/2052768?s=N4IgTCBcDaICIFkDiBmALARgKwFUC0A7CALoC%2BQA
-2,"R1, R5",ERJ-PA3J152V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J152V/5035991?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwFYwA1EAXQF8g
-5,"R2, R3, R19, R20, R21",ERJ-PA3J104V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J104V/5035972?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwAYAWANRAF0BfIA
-8,"R6, R9, R10, R11, R12, R13, R14, R15",ERJ-PA3J103V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J103V/5035971?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwAYsA1EAXQF8g
-1,R18,ERJ-PA3J151V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J151V/5035990?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwFZcA1EAXQF8g
-1,R4,ERJ-PA3J471V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J471V/5036065?s=N4IgTCBcDaIKICUBSBaACgQQMxICwHYBGANRAF0BfIA
-2,"R22, R24",ERJ-PA3F5101V,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3F5101V/5035934?s=N4IgTCBcDaIKICUBSBaACgQQMwDECsAjAAwEBqIAugL5A
-1,U3,XC6210B332MR-G,https://www.digikey.com/en/products/detail/torex-semiconductor-ltd/XC6210B332MR-G/2138119?s=N4IgTCBcDaIBoGEBsYCMAGAQgZm2AsgEoC0A4iALoC%2BQA
-1,S3,MA12RTR,https://www.digikey.com/en/products/detail/apem-inc/MA12RTR/1795601?s=N4IgTCBcDaILIEECMYBKAVVIC6BfIA
-1,LED2,SSL-LX3059IGW,https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSL-LX3059IGW/242268
-1,C10,F930J107KAA,https://www.digikey.com/en/products/detail/kyocera-avx/F930J107KAA/4005275
-2,"Q4, Q5",MMBT2222A-7-F,https://www.digikey.com/en/products/detail/diodes-incorporated/MMBT2222A-7-F/814503
-1,U1,ESP32-WROVER (16MB),https://www.digikey.com/en/products/filter/rf-transceiver-modules-and-modems/872?s=N4IgTCBcDaIKIGUAKBmMBaA6gJQPIDU5sACACgEYA2AWQCEBKEAXQF8g
-1,U$11,541324562,https://www.digikey.com/en/products/detail/molex/0541324562/3197010
-1,U6,LM4875MX/NOPB,https://www.digikey.com/en/products/detail/texas-instruments/LM4875MX-NOPB/1871686?s=N4IgTCBcDaIDIFkAsAOA7AVgQDQPQDkB5ABQCEQBdAXyA
-1,D4,MBR120LSFT1G,https://www.digikey.com/en/products/detail/onsemi/MBR120LSFT1G/1748986?s=N4IgTCBcDaILICEBKBGMAGAMgZQGIBUUBxEAXQF8g
-1,N/A - This is the LCD itself,ET026LQTM008,https://www.alibaba.com/product-detail/Support-Small-Quantity-2-6-inch_1600609986142.html
-2,"R16, R17",Potentiometer,https://www.aliexpress.com/item/4000976184399.html?spm=a2g0o.ppclist.product.48.188aFIP1FIP1hP&pdp_npi=2%40dis%21CAD%21C%24%200.30%21C%24%200.27%21%21%21%21%21%402101f6b416758591583237100e8a4d%2110000013049613215%21btf&_t=pvid:51ec7263-41ad-4eee-b2d4-5f0c6bfe3fc6&afTraceInfo=4000976184399__pc__pcBridgePPC__xxxxxx__1675859158
+Qty,Designator,MPN,Price/per unit,Price*Qty,Descrip,Purchase Link,,,
+1,J1,SJ1-3525NG-GR,0.85,0.85,Audio connector,https://www.digikey.com/en/products/detail/cui-devices/SJ1-3525NG-GR/2295990?s=N4IgTCBcDaIMoCkCMBaAzAVjBgcgcRTwCUQBdAXyA,,,
+1,C13,CL10B104KB8NNNC,0.1,0.1,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNC/3886658?s=N4IgTCBcDaIMIBkCMAGAQqgLAaTQDgDki4QBdAXyA,,,
+4,"C1, C2, C4, C6",CL10A106MP8NNNC,0.18,0.72,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MP8NNNC/3887529?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQAoA4A5YuEAXQF8g,,,
+4,"C3, C8, C9, C14",CL10A105KP8NNNC,0.1,0.4,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KP8NNNC/3886840?s=N4IgTCBcDaIMIBkCMAGAgqgrAaQAoA4A5YuEAXQF8g,,,
+1,C7,CL10C221JB8NNNC,0.1,0.1,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10C221JB8NNNC/3886706?s=N4IgTCBcDaIMIBkCMAGOYxIFICEAcAckXCALoC%2BQA,,,
+1,J5,5031821852,4.05,4.05,sd reader,https://www.digikey.com/en/products/detail/molex/5031821852/4693482?s=N4IgTCBcDaIKwAYDMBGAHGdcIF0C%2BQA,,,
+1,J6,USB4110-GF-A,1.35,1.35,usb,https://www.digikey.com/en/products/detail/gct/USB4110-GF-A/10384547?s=N4IgTCBcDaIKoGUBCAWAjGgDAWgOIDFsBBEAXQF8g,,,
+1,J3,S2B-PH-SM4-TB(LF)(SN),0.57,0.57,connector (out of stock),https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/926655?s=N4IgTCBcDaIMpgEIFoAKAJZcCyAWZAKogBQAyAYgJTFwBylIAugL5A,,,
+1,U4,MCP73832T-2ACI/OT,0.76,0.76,battery charger,https://www.digikey.com/en/products/detail/microchip-technology/MCP73832T-2ACI-OT/1223142?s=N4IgTCBcDaILIGEAKB2AzADjWAKgWjAEEEBJAegHkcQBdAXyA,,,
+2,"S1, S2",KMR221GLFS,0.46,0.92,button,https://www.digikey.com/en/products/detail/c-k/KMR221GLFS/550472?s=N4IgTCBcDaINIFkBKYwEYDiAZAYgZRAF0BfIA,,,
+1,Q3,DMG3415U-7,0.45,0.45,,https://www.digikey.com/en/products/detail/diodes-incorporated/DMG3415U-7/2052768?s=N4IgTCBcDaICIFkDiBmALARgKwFUC0A7CALoC%2BQA,,,
+2,"R1, R5",ERJ-PA3J152V,0.11,0.22,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J152V/5035991?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwFYwA1EAXQF8g,,,
+5,"R2, R3, R19, R20, R21",ERJ-PA3J104V,0.11,0.55,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J104V/5035972?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwAYAWANRAF0BfIA,,,
+8,"R6, R9, R10, R11, R12, R13, R14, R15",ERJ-PA3J103V,0.11,0.88,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J103V/5035971?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwAYsA1EAXQF8g,,,
+1,R18,ERJ-PA3J151V,0.11,0.11,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J151V/5035990?s=N4IgTCBcDaIKICUBSBaACgQQMxIIwFZcA1EAXQF8g,,,
+1,R4,ERJ-PA3J471V,0.11,0.11,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3J471V/5036065?s=N4IgTCBcDaIKICUBSBaACgQQMxICwHYBGANRAF0BfIA,,,
+2,"R22, R24",ERJ-PA3F5101V,0.16,0.32,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA3F5101V/5035934?s=N4IgTCBcDaIKICUBSBaACgQQMwDECsAjAAwEBqIAugL5A,,,
+1,U3,XC6210B332MR-G,0.85,0.85,volt reg,https://www.digikey.com/en/products/detail/torex-semiconductor-ltd/XC6210B332MR-G/2138119?s=N4IgTCBcDaIBoGEBsYCMAGAQgZm2AsgEoC0A4iALoC%2BQA,,,
+1,S3,MA12RTR,1.2,1.2,slide switch,https://www.digikey.com/en/products/detail/apem-inc/MA12RTR/1795601?s=N4IgTCBcDaILIEECMYBKAVVIC6BfIA,,,
+1,LED2,SSL-LX3059IGW,0.62,0.62,led,https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSL-LX3059IGW/242268,,,
+1,C10,F930J107KAA,0.76,0.76,fancy cap,https://www.digikey.com/en/products/detail/kyocera-avx/F930J107KAA/4005275,,,
+2,"Q4, Q5",MMBT2222A-7-F,0.14,0.28,,https://www.digikey.com/en/products/detail/diodes-incorporated/MMBT2222A-7-F/814503,,,
+1,U1,ESP32-WROVER (16MB),4.28,4.28,esp32,https://www.digikey.com/en/products/filter/rf-transceiver-modules-and-modems/872?s=N4IgTCBcDaIKIGUAKBmMBaA6gJQPIDU5sACACgEYA2AWQCEBKEAXQF8g,,,
+1,U11,541324562,2.44,2.44,flex connector,https://www.digikey.com/en/products/detail/molex/0541324562/3197010,,,https://www.digikey.com/en/products/detail/molex/0541324562/3197010
+1,U6,LM4875MX/NOPB,2.13,2.13,audio amplifier,https://www.digikey.com/en/products/detail/texas-instruments/LM4875MX-NOPB/1871686?s=N4IgTCBcDaIDIFkAsAOA7AVgQDQPQDkB5ABQCEQBdAXyA,,,
+1,D4,MBR120LSFT1G,0.46,0.46,,https://www.digikey.com/en/products/detail/onsemi/MBR120LSFT1G/1748986?s=N4IgTCBcDaILICEBKBGMAGAMgZQGIBUUBxEAXQF8g,,,
+1,N/A - This is the LCD itself,ET026LQTM008,9.7,9.7,lcd screen,https://www.alibaba.com/product-detail/Support-Small-Quantity-2-6-inch_1600609986142.html,,,
+2,"R16, R17",Potentiometer,0.2,0.4,,https://www.aliexpress.com/item/4000976184399.html?spm=a2g0o.ppclist.product.48.188aFIP1FIP1hP&pdp_npi=2%40dis%21CAD%21C%24%200.30%21C%24%200.27%21%21%21%21%21%402101f6b416758591583237100e8a4d%2110000013049613215%21btf&_t=pvid:51ec7263-41ad-4eee-b2d4-5f0c6bfe3fc6&afTraceInfo=4000976184399__pc__pcBridgePPC__xxxxxx__1675859158,,,
+,,,,,,,,,
+,,(3x) PCB(2.8”x4.5”) oshpark@ $5/sq.in.,65,21.65,,,,,
+,,,,,,,,,
+,,Enclosure??,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,Total,57.25,,,,,
